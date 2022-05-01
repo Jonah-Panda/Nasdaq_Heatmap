@@ -1,0 +1,100 @@
+Company,Sector,Industry,Ticker,Market Cap
+Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",AAPL,2093130000000
+Microsoft Corporation,Information Technology,Systems Software,MSFT,1846516000000
+Nvidia Corporation,Information Technology,Semiconductors,NVDA,373224800000
+Intel Corporation,Information Technology,Semiconductors,INTC,226451000000
+Broadcom Inc.,Information Technology,Semiconductors,AVGO,184242300000
+Texas Instruments,Information Technology,Semiconductors,TXN,170861100000
+Qualcomm,Information Technology,Semiconductors,QCOM,148286900000
+Advanced Micro Devices,Information Technology,Semiconductors,AMD,93763170000
+"Micron Technology, Inc.",Information Technology,Semiconductors,MU,90520660000
+Analog Devices,Information Technology,Semiconductors,ADI,58776260000
+NXP Semiconductors,Information Technology,Semiconductors,NXPI,55105950000
+Microchip Technology,Information Technology,Semiconductors,MCHP,40977740000
+"Xilinx, Inc.",Information Technology,Semiconductors,XLNX,30191610000
+"Skyworks Solutions, Inc.",Information Technology,Semiconductors,SWKS,27520930000
+Maxim Integrated Products,Information Technology,Semiconductors,MXIM,26527750000
+Adobe Inc.,Information Technology,Application Software,ADBE,233297500000
+Intuit,Information Technology,Application Software,INTU,118690400000
+Zoom Video Communications,Information Technology,Application Software,ZM,93167230000
+Autodesk,Information Technology,Application Software,ADSK,61987330000
+"Workday, Inc.",Information Technology,Application Software,WDAY,56452700000
+Atlassian,Information Technology,Application Software,TEAM,55926320000
+DocuSign,Information Technology,Application Software,DOCU,37695250000
+Marvell Technology Group,Information Technology,Application Software,MRVL,37336270000
+"Synopsys, Inc.",Information Technology,Application Software,SNPS,36874300000
+Cadence Design Systems,Information Technology,Application Software,CDNS,34354600000
+"Okta, Inc.",Information Technology,Application Software,OKTA,29802190000
+Ansys,Information Technology,Application Software,ANSS,28782680000
+Splunk,Information Technology,Application Software,SPLK,19348710000
+Check Point Software Technologies Ltd.,Information Technology,Application Software,CHKP,15976470000
+ASML Holding,Information Technology,Semiconductor Equipment,ASML,269465600000
+"Applied Materials, Inc.",Information Technology,Semiconductor Equipment,AMAT,118066200000
+Lam Research,Information Technology,Semiconductor Equipment,LRCX,87582540000
+KLA Corporation,Information Technology,Semiconductor Equipment,KLAC,47538810000
+PayPal,Information Technology,Data Processing & Outsourced Services,PYPL,294492600000
+"Automatic Data Processing, Inc.",Information Technology,Data Processing & Outsourced Services,ADP,83095220000
+"Fiserv, Inc.",Information Technology,Data Processing & Outsourced Services,FISV,76158400000
+"Paychex, Inc.",Information Technology,Data Processing & Outsourced Services,PAYX,36306280000
+Cisco Systems,Information Technology,Communications Equipment,CSCO,221543700000
+Cognizant Technology Solutions Corporation,Information Technology,IT Consulting & Other Services,CTSH,37572820000
+Verisign,Information Technology,Internet Services & Infrastructure,VRSN,24932680000
+CDW,Information Technology,Technology Distributors,CDW,23564010000
+Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,GOOGL,1553936000000
+"Facebook, Inc.",Communication Services,Interactive Media & Services,FB,896659100000
+Baidu,Communication Services,Interactive Media & Services,BIDU,67018790000
+Match Group,Communication Services,Interactive Media & Services,MTCH,38735760000
+Comcast Corporation,Communication Services,Cable & Satellite,CMCSA,253053500000
+"Charter Communications, Inc.",Communication Services,Cable & Satellite,CHTR,149080900000
+Netflix,Communication Services,Movies & Entertainment,NFLX,220765800000
+Fox Corporation (Class A),Communication Services,Movies & Entertainment,FOXA,21500280000
+"NetEase, Inc.",Communication Services,Interactive Home Entertainment,NTES,78766420000
+Activision Blizzard,Communication Services,Interactive Home Entertainment,ATVI,74104090000
+Electronic Arts,Communication Services,Interactive Home Entertainment,EA,40316540000
+T-Mobile US,Communication Services,Wireless Telecommunication Services,TMUS,169635000000
+Sirius XM Holdings Inc.,Communication Services,Broadcasting,SIRI,24340060000
+Amazon.com,Consumer Discretionary,Internet & Direct Marketing Retail,AMZN,1.61539E+12
+Pinduoduo Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,PDD,1.62038E+11
+JD.com,Consumer Discretionary,Internet & Direct Marketing Retail,JD,1.15998E+11
+Booking Holdings,Consumer Discretionary,Internet & Direct Marketing Retail,BKNG,94149700000
+MercadoLibre,Consumer Discretionary,Internet & Direct Marketing Retail,MELI,68154100000
+Trip.com Group,Consumer Discretionary,Internet & Direct Marketing Retail,TCOM,51531830000
+eBay Inc.,Consumer Discretionary,Internet & Direct Marketing Retail,EBAY,41570590000
+"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,TSLA,5.59579E+11
+Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",MAR,45267010000
+"Ross Stores, Inc.",Consumer Discretionary,Apparel Retail,ROST,43952360000
+Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",LULU,40819540000
+"O'Reilly Automotive, Inc.",Consumer Discretionary,Specialty Stores,ORLY,37964290000
+Peloton Interactive,Consumer Discretionary,Leisure Products,PTON,30097790000
+"Dollar Tree, Inc.",Consumer Discretionary,General Merchandise Stores,DLTR,25408760000
+Amgen,Health Care,Biotechnology,AMGN,144218800000
+"Gilead Sciences, Inc.",Health Care,Biotechnology,GILD,86224750000
+Moderna,Health Care,Biotechnology,MRNA,64826660000
+Vertex Pharmaceuticals,Health Care,Biotechnology,VRTX,55249700000
+Regeneron Pharmaceuticals,Health Care,Biotechnology,REGN,53977440000
+Biogen,Health Care,Biotechnology,BIIB,42635600000
+Seagen Inc.,Health Care,Biotechnology,SGEN,27827700000
+Incyte Corporation,Health Care,Biotechnology,INCY,18200870000
+Intuitive Surgical,Health Care,Health Care Equipment,ISRG,97689450000
+Idexx Laboratories,Health Care,Health Care Equipment,IDXX,45995270000
+DexCom,Health Care,Health Care Equipment,DXCM,33082110000
+"Illumina, Inc.",Health Care,Life Sciences Tools & Services,ILMN,58198520000
+Align Technology,Health Care,Health Care Supplies,ALGN,46829070000
+Alexion Pharmaceuticals,Health Care,Pharmaceuticals,ALXN,39279540000
+Cerner Corporation,Health Care,Health Care Technology,CERN,23361110000
+"PepsiCo, Inc.",Consumer Staples,Soft Drinks,PEP,203238000000
+Keurig Dr Pepper Inc.,Consumer Staples,Soft Drinks,KDP,51366200000
+Monster Beverage Corporation,Consumer Staples,Soft Drinks,MNST,48633010000
+Costco Wholesale Corporation,Consumer Staples,Hypermarkets & Super Centers,COST,168481500000
+Mondelēz International,Consumer Staples,Packaged Foods & Meats,MDLZ,89002500000
+Kraft Heinz Co,Consumer Staples,Packaged Foods & Meats,KHC,53977490000
+"Walgreen Boots Alliance, Inc.",Consumer Staples,Drug Retail,WBA,47437960000
+CSX Corporation,Industrials,Railroads,CSX,74444870000
+Cintas Corporation,Industrials,Diversified Support Services,CTAS,36603680000
+Copart,Industrials,Diversified Support Services,CPRT,30016980000
+Paccar,Industrials,Construction Machinery & Heavy Trucks,PCAR,31948800000
+Fastenal Company,Industrials,Building Products,FAST,30078250000
+Verisk Analytics,Industrials,Research & Consulting Services,VRSK,28124450000
+Exelon Corporation,Utilities,Multi-Utilities,EXC,44793710000
+Xcel Energy Inc.,Utilities,Multi-Utilities,XEL,38772420000
+American Electric Power,Utilities,Electric Utilities,AEP,43303370000
